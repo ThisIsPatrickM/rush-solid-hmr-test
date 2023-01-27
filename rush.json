@@ -342,6 +342,11 @@
       "packageName": "my-app",
       "projectFolder": "app"
     }
+    ,
+    {
+      "packageName": "ssr-app",
+      "projectFolder": "ssr/ssr-app"
+    }
     // {
     //   /**
     //    * The NPM package name of the project (must match package.json)
