@@ -6,7 +6,7 @@ import styles from './App.module.css';
 const FancyComponent: Component = () => {
   return (
     <div class={styles.App}>
-      Hell Yeah
+      Hell a
     </div>
   );
 };

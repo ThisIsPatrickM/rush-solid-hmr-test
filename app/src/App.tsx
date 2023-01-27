@@ -3,7 +3,7 @@ import type { Component } from 'solid-js';
 import logo from './logo.svg';
 import styles from './App.module.css';
 // TODO Bad Path
-import FancyComponent from '../../component/src/FancyComponent'
+import FancyComponent from 'my-component/src/FancyComponent';
 
 const App: Component = () => {
   return (
