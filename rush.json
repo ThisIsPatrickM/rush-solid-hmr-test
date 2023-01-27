@@ -347,6 +347,11 @@
       "packageName": "ssr-app",
       "projectFolder": "ssr/ssr-app"
     }
+    ,
+    {
+      "packageName": "vite-solid-ssr-template",
+      "projectFolder": "vite-solid-ssr"
+    }
     // {
     //   /**
     //    * The NPM package name of the project (must match package.json)

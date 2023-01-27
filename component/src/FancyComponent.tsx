@@ -4,7 +4,7 @@ import type { Component } from 'solid-js';
 const FancyComponent: Component = () => {
   return (
     <div>
-      Hell asddsds
+      Hell 123
     </div>
   );
 };
