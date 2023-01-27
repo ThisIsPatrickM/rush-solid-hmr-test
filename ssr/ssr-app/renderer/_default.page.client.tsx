@@ -14,7 +14,7 @@ async function render(pageContext: PageContextClient) {
     </PageShell>
   )
 }
+export const clientRouting = true
 
 /* To enable Client-side Routing:
-export const clientRouting = true
 // !! WARNING !! Before doing so, read https://vite-plugin-ssr.com/clientRouting */
