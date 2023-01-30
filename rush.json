@@ -352,6 +352,16 @@
       "packageName": "vite-solid-ssr-template",
       "projectFolder": "vite-solid-ssr"
     }
+    ,
+    {
+      "packageName": "my-vue-app",
+      "projectFolder": "my-vue-app"
+    },
+
+    {
+      "packageName": "vue-comp",
+      "projectFolder": "vue-comp"
+    }
     // {
     //   /**
     //    * The NPM package name of the project (must match package.json)
